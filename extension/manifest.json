@@ -1,0 +1,9 @@
+{
+  "name": "React Chrome Extension",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "This is my extension description.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
