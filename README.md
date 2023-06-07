@@ -1,6 +1,7 @@
 # React Chrome Extension
 
 This is a simple Chrome extension built with React from Figma design.
+https://www.figma.com/file/ZhHwyXTp6L4yuOF3IpzMK4/Yumazzo?type=design&node-id=0-1&t=CRc9THljMMOsa7pX-0
 
 ## How to Run the Project
 
