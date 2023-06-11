@@ -1,13 +1,20 @@
-export interface DishInterface {
+export interface RecipeInterface {
   name: string;
-  difficulty: string;
+  origin: string;
   description: string;
-  socials: Array<Social>;
-  link: string;
+  difficulty: number;
+  protein: string;
+  produce: string;
+  spice: string;
+  cookingOil: string;
+  volume: number;
+  serves: number;
+  authenticity: string;
+  stock: string;
 }
 
-export interface Social {
-  link: string;
-  icon: string;
-  description: string;
+export interface OriginInterface {
+  code: string;
+  name: string;
+  flag: string;
 }
